@@ -1,0 +1,205 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+/* ---------- Overall page ---------- */
+
+body {
+  background: #faf9f7;
+  color: #292929;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+
+/* ---------- Main content width ---------- */
+
+.wrapper {
+  width: 920px;
+  max-width: 92%;
+  margin: 0 auto;
+}
+
+
+/* ---------- Left sidebar ---------- */
+
+header {
+  padding-top: 42px;
+}
+
+header h1 {
+  font-size: 1.65rem;
+  line-height: 1.2;
+  font-weight: 650;
+  color: #173f3b;
+  letter-spacing: -0.02em;
+}
+
+header p {
+  color: #666;
+  font-size: 0.95rem;
+}
+
+
+/* ---------- Main content ---------- */
+
+section {
+  padding-top: 38px;
+}
+
+section h1:first-child {
+  color: #173f3b;
+  font-size: 2.5rem;
+  line-height: 1.08;
+  margin-bottom: 5px;
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  color: #173f3b;
+  font-size: 1.3rem;
+  margin-top: 42px;
+  margin-bottom: 16px;
+  padding-bottom: 7px;
+  border-bottom: 2px solid #d9e4df;
+  font-weight: 650;
+}
+
+h3 {
+  color: #173f3b;
+}
+
+
+/* ---------- Links ---------- */
+
+a {
+  color: #326b64;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #173f3b;
+  text-decoration: underline;
+}
+
+
+/* ---------- Intro ---------- */
+
+.tagline {
+  font-size: 1.2rem;
+  color: #56736f;
+  margin-top: -2px;
+  margin-bottom: 18px;
+  font-weight: 450;
+}
+
+
+/* ---------- CV / Scholar buttons ---------- */
+
+.button-row {
+  margin: 25px 0 34px 0;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.button {
+  display: inline-block;
+  padding: 9px 18px;
+  border-radius: 5px;
+  background: #326b64;
+  color: white !important;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.button:hover {
+  background: #24534e;
+}
+
+.button.secondary {
+  background: transparent;
+  color: #326b64 !important;
+  border: 1px solid #326b64;
+}
+
+.button.secondary:hover {
+  background: #eef4f1;
+}
+
+
+/* ---------- Focus areas ---------- */
+
+.focus-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+  margin: 20px 0 30px 0;
+}
+
+.focus-card {
+  background: #ffffff;
+  border: 1px solid #e2e5e3;
+  border-left: 4px solid #7aa49c;
+  border-radius: 4px;
+  padding: 16px 17px;
+  font-size: 0.94rem;
+  line-height: 1.5;
+}
+
+.focus-card strong {
+  color: #173f3b;
+  font-size: 1rem;
+}
+
+
+/* ---------- Paragraphs ---------- */
+
+p {
+  margin-bottom: 17px;
+}
+
+
+/* ---------- Remove theme clutter ---------- */
+
+footer {
+  font-size: 0.75rem;
+  color: #999;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media print, screen and (max-width: 720px) {
+
+  .wrapper {
+    width: auto;
+    max-width: 90%;
+  }
+
+  header {
+    padding-top: 24px;
+  }
+
+  section {
+    padding-top: 18px;
+  }
+
+  section h1:first-child {
+    font-size: 2rem;
+  }
+
+  .focus-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .button-row {
+    margin-bottom: 26px;
+  }
+}
