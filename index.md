@@ -2,31 +2,16 @@
 layout: default
 ---
 
-<div class="profile-header">
-
-<div class="profile-text">
-
 # Amelia Reese Masterson
 
-<div class="tagline">
+<img src="amelia-headshot.jpg" alt="Amelia Reese Masterson" class="headshot">
+
 Public health researcher and evaluator
-</div>
 
 **PhD Candidate, UCLA Fielding School of Public Health**  
 **Population Health Evaluator, Cottage Health**
 
-<div class="button-row">
-<a class="button" href="cv.pdf">CV</a>
-<a class="button secondary" href="https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en">Google Scholar</a>
-</div>
-
-</div>
-
-<div class="profile-photo">
-<img src="amelia-headshot.jpg" alt="Amelia Reese Masterson">
-</div>
-
-</div>
+[CV](cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en)
 
 ## About
 
@@ -38,39 +23,12 @@ I work at the intersection of applied research, program evaluation, health equit
 
 ## Areas of Work
 
-<div class="focus-grid">
-
-<div class="focus-card">
-<strong>Reproductive Health</strong><br>
-Maternal and reproductive health, women's health, and access to care.
-</div>
-
-<div class="focus-card">
-<strong>Migration & Immigrant Health</strong><br>
-Health and health-care experiences of immigrant, refugee, and asylee populations.
-</div>
-
-<div class="focus-card">
-<strong>Health Equity</strong><br>
-Disparities in health outcomes, access, and quality of care.
-</div>
-
-<div class="focus-card">
-<strong>Program Evaluation</strong><br>
-Evaluation of public health programs, interventions, and health services.
-</div>
-
-<div class="focus-card">
-<strong>Social & Health Policy</strong><br>
-How policies and institutions shape health and access to services.
-</div>
-
-<div class="focus-card">
-<strong>Community Health</strong><br>
-Applied research that informs public health programs and service delivery.
-</div>
-
-</div>
+- Reproductive health
+- Migration and immigrant health
+- Health equity
+- Social policy and access to care
+- Program evaluation
+- Community health and public-sector health systems
 
 ## Applied Research & Evaluation
 
@@ -94,10 +52,10 @@ Cottage Health
 
 ## Links
 
-[Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en) ·
-[CV](cv.pdf) ·
-[UCSB Broom Center](https://broomcenter.ucsb.edu/people/amelia-reese-masterson) ·
-[Cottage Health](https://www.cottagehealth.org/population-health/team/)
+- [Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en)
+- [CV](cv.pdf)
+- [UCSB Broom Center](https://broomcenter.ucsb.edu/people/amelia-reese-masterson)
+- [Cottage Health](https://www.cottagehealth.org/population-health/team/)
 
 ## Contact
 
