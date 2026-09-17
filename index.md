@@ -1,46 +1,92 @@
+---
+layout: default
+---
+
 # Amelia Reese Masterson
 
-Public health researcher and evaluator  
-PhD Candidate, UCLA Fielding School of Public Health  
-Population Health Evaluator, Cottage Health
+<div class="tagline">
+Public health researcher and evaluator
+</div>
+
+**PhD Candidate, UCLA Fielding School of Public Health**  
+**Population Health Evaluator, Cottage Health**
+
+<div class="button-row">
+<a class="button" href="cv.pdf">CV</a>
+<a class="button secondary" href="https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en">Google Scholar</a>
+</div>
 
 ## About
 
 I am a public health researcher and evaluator whose work focuses on reproductive health, migration, social policy, and equitable access to care.
 
-My research examines disparities in quality of care and uptake of social programs by migration status and structural disadvantage, and how these relate to reproductive health outcomes.
+My research examines how migration, social and health policies, program interventions, and health systems shape health outcomes and access to care, particularly among immigrant and refugee women and communities.
 
 I work at the intersection of applied research, program evaluation, health equity, and public health policy.
 
 ## Areas of Work
 
-- Reproductive health
-- Migration and immigrant health
-- Health equity
-- Social policy and access to care
-- Program evaluation
-- Community health and public-sector health systems
+<div class="focus-grid">
 
-## Applied Research and Evaluation
+<div class="focus-card">
+<strong>Reproductive Health</strong><br>
+Maternal and reproductive health, women's health, and access to care.
+</div>
 
-My work uses quantitative, qualitative, and mixed-methods approaches to study health systems, public programs, and inequities in access to care. I am interested in research and evaluation that can inform public health policy, program design, and service delivery.
+<div class="focus-card">
+<strong>Migration & Immigrant Health</strong><br>
+Health and health-care experiences of immigrant, refugee, and asylee populations.
+</div>
 
-Areas of applied experience include program evaluation, survey research, data analysis, stakeholder-facing reporting, and community-centered public health research.
+<div class="focus-card">
+<strong>Health Equity</strong><br>
+Disparities in health outcomes, access, and quality of care.
+</div>
 
-## Research and Publications
+<div class="focus-card">
+<strong>Program Evaluation</strong><br>
+Evaluation of public health programs, interventions, and health services.
+</div>
+
+<div class="focus-card">
+<strong>Social & Health Policy</strong><br>
+How policies and institutions shape health and access to services.
+</div>
+
+<div class="focus-card">
+<strong>Community Health</strong><br>
+Applied research that informs public health programs and service delivery.
+</div>
+
+</div>
+
+## Applied Research & Evaluation
+
+My work uses quantitative, qualitative, and mixed-methods approaches to study health systems, public programs, and inequities in access to care.
+
+My applied research experience includes program evaluation, causal inference, survey research, quantitative data analysis, qualitative research, stakeholder-facing reporting, and community-based public health research.
+
+I am particularly interested in research and evaluation that can inform public health policy, program design, implementation, and service delivery.
+
+## Research & Publications
 
 For an up-to-date list of publications and research outputs, see my [Google Scholar profile](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en).
 
-## CV
+## Professional Roles
 
-[Download CV](cv.pdf)
+**PhD Candidate**  
+UCLA Fielding School of Public Health
+
+**Population Health Evaluator**  
+Cottage Health
 
 ## Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en)
-- [UCSB Broom Center Profile](https://broomcenter.ucsb.edu/people/amelia-reese-masterson)
-- [Cottage Health Population Health Team](https://www.cottagehealth.org/population-health/team/)
+[Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en) ·
+[CV](cv.pdf) ·
+[UCSB Broom Center](https://broomcenter.ucsb.edu/people/amelia-reese-masterson) ·
+[Cottage Health](https://www.cottagehealth.org/population-health/team/)
 
 ## Contact
 
-Email: [ameliareese@g.ucla.edu](mailto:ameliareese@g.ucla.edu)
+[ameliareese@g.ucla.edu](mailto:ameliareese@g.ucla.edu)
