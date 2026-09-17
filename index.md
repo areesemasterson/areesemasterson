@@ -6,12 +6,17 @@ layout: default
 
 <img src="amelia-headshot.jpg" alt="Amelia Reese Masterson" class="headshot">
 
-Public health researcher and evaluator
+**Public health researcher and evaluator**
 
-**PhD Candidate, UCLA Fielding School of Public Health**  
-**Population Health Evaluator, Cottage Health**
+PhD Candidate, UCLA Fielding School of Public Health  
+Population Health Evaluator, Cottage Health
 
-[CV](cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en)
+[ameliareese@g.ucla.edu](mailto:ameliareese@g.ucla.edu)
+
+[CV](cv.pdf) ·
+[Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en) ·
+[UCSB Broom Center](https://broomcenter.ucsb.edu/people/amelia-reese-masterson) ·
+[Cottage Health](https://www.cottagehealth.org/population-health/team/)
 
 ## About
 
@@ -42,21 +47,12 @@ I am particularly interested in research and evaluation that can inform public h
 
 For an up-to-date list of publications and research outputs, see my [Google Scholar profile](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en).
 
-## Professional Roles
+## Current Professional Roles
 
 **PhD Candidate**  
-UCLA Fielding School of Public Health
+UCLA Fielding School of Public Health  
+2022–present
 
 **Population Health Evaluator**  
-Cottage Health
-
-## Links
-
-- [Google Scholar](https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en)
-- [CV](cv.pdf)
-- [UCSB Broom Center](https://broomcenter.ucsb.edu/people/amelia-reese-masterson)
-- [Cottage Health](https://www.cottagehealth.org/population-health/team/)
-
-## Contact
-
-[ameliareese@g.ucla.edu](mailto:ameliareese@g.ucla.edu)
+Cottage Health  
+2021–present
