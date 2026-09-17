@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class="profile-header">
+
+<div class="profile-text">
+
 # Amelia Reese Masterson
 
 <div class="tagline">
@@ -14,6 +18,14 @@ Public health researcher and evaluator
 <div class="button-row">
 <a class="button" href="cv.pdf">CV</a>
 <a class="button secondary" href="https://scholar.google.com/citations?user=Z48Dc7QAAAAJ&hl=en">Google Scholar</a>
+</div>
+
+</div>
+
+<div class="profile-photo">
+<img src="amelia-headshot.jpg" alt="Amelia Reese Masterson">
+</div>
+
 </div>
 
 ## About
